@@ -47,4 +47,4 @@ The dataset (`sales_data.csv`) contains 200 fictional sales records from various
 
 Made by **Amjad Salih**  
 📧 amgadnazar11@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/amgad-nazar-ab29a8244)
+🔗 [LinkedIn](https://www.linkedin.com/in/amjad-nazar)
