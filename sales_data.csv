@@ -1,0 +1,201 @@
+Order ID,Product,Quantity Ordered,Price Each,City,Order Date,Month,Sales
+1001,Monitor,4,763.81,Los Angeles,2023-04-21,Apr,3055.24
+1002,Keyboard,4,870.85,New York,2023-09-06,Sep,3483.4
+1003,Headphones,4,1159.77,Los Angeles,2023-05-31,May,4639.08
+1004,Keyboard,1,94.1,Chicago,2023-07-02,Jul,94.1
+1005,Keyboard,4,1491.99,Los Angeles,2023-12-02,Dec,5967.96
+1006,Phone,1,720.82,Los Angeles,2023-04-05,Apr,720.82
+1007,Headphones,2,440.95,Phoenix,2023-01-08,Jan,881.9
+1008,Headphones,1,1328.74,Phoenix,2023-12-26,Dec,1328.74
+1009,Headphones,2,1129.15,Phoenix,2023-07-03,Jul,2258.3
+1010,Keyboard,4,1431.02,Chicago,2023-10-08,Oct,5724.08
+1011,Monitor,4,516.2,Phoenix,2023-07-14,Jul,2064.8
+1012,Headphones,2,842.56,New York,2023-12-18,Dec,1685.12
+1013,Mouse,3,871.27,Houston,2023-07-14,Jul,2613.81
+1014,Keyboard,2,1471.09,New York,2023-06-04,Jun,2942.18
+1015,Phone,3,140.76,New York,2023-04-03,Apr,422.28
+1016,Monitor,1,479.37,Phoenix,2023-06-09,Jun,479.37
+1017,Mouse,1,310.64,Houston,2023-03-02,Mar,310.64
+1018,Mouse,1,424.66,Houston,2023-05-02,May,424.66
+1019,Phone,4,743.36,Houston,2023-02-20,Feb,2973.44
+1020,Monitor,1,577.85,Chicago,2023-10-04,Oct,577.85
+1021,Keyboard,3,610.2,Phoenix,2023-01-05,Jan,1830.6000000000001
+1022,Laptop,1,1270.99,Houston,2023-04-02,Apr,1270.99
+1023,Monitor,2,1397.12,Chicago,2023-06-19,Jun,2794.24
+1024,Phone,2,133.51,Los Angeles,2023-11-13,Nov,267.02
+1025,Mouse,4,337.11,Los Angeles,2023-01-22,Jan,1348.44
+1026,Keyboard,2,1016.58,Chicago,2023-11-22,Nov,2033.16
+1027,Monitor,3,557.21,Chicago,2023-01-01,Jan,1671.63
+1028,Laptop,1,403.62,Phoenix,2023-05-13,May,403.62
+1029,Laptop,4,464.08,Phoenix,2023-08-21,Aug,1856.32
+1030,Headphones,1,504.15,Los Angeles,2023-01-12,Jan,504.15
+1031,Headphones,1,1277.54,Houston,2023-12-12,Dec,1277.54
+1032,Phone,3,230.83,Los Angeles,2023-02-15,Feb,692.49
+1033,Monitor,2,1072.1,Houston,2023-02-03,Feb,2144.2
+1034,Monitor,2,842.65,Houston,2023-03-19,Mar,1685.3
+1035,Mouse,1,465.87,Phoenix,2023-08-06,Aug,465.87
+1036,Mouse,4,647.08,New York,2023-10-28,Oct,2588.32
+1037,Mouse,2,406.62,New York,2023-03-14,Mar,813.24
+1038,Headphones,4,928.93,Chicago,2023-10-09,Oct,3715.72
+1039,Monitor,2,149.94,Phoenix,2023-09-06,Sep,299.88
+1040,Monitor,4,37.62,Houston,2023-02-16,Feb,150.48
+1041,Laptop,3,953.0,New York,2023-05-01,May,2859.0
+1042,Headphones,4,315.58,Houston,2023-08-02,Aug,1262.32
+1043,Keyboard,3,134.28,New York,2023-08-27,Aug,402.84000000000003
+1044,Headphones,3,613.27,New York,2023-02-25,Feb,1839.81
+1045,Keyboard,4,104.63,New York,2023-12-16,Dec,418.52
+1046,Laptop,3,1333.33,Phoenix,2023-04-17,Apr,3999.99
+1047,Phone,1,70.6,Los Angeles,2023-11-15,Nov,70.6
+1048,Monitor,3,880.93,Houston,2023-02-17,Feb,2642.79
+1049,Laptop,2,674.56,Phoenix,2023-03-02,Mar,1349.12
+1050,Monitor,4,1017.88,Phoenix,2023-12-03,Dec,4071.52
+1051,Mouse,1,512.38,Phoenix,2023-01-26,Jan,512.38
+1052,Phone,4,257.91,Phoenix,2023-10-19,Oct,1031.64
+1053,Phone,2,1473.31,Phoenix,2023-09-14,Sep,2946.62
+1054,Laptop,2,1263.23,Chicago,2023-01-08,Jan,2526.46
+1055,Phone,2,1294.79,Houston,2023-04-23,Apr,2589.58
+1056,Keyboard,3,397.87,Phoenix,2023-12-21,Dec,1193.6100000000001
+1057,Phone,3,87.09,Houston,2023-09-10,Sep,261.27
+1058,Monitor,4,475.8,Chicago,2023-06-29,Jun,1903.2
+1059,Monitor,4,819.51,Chicago,2023-07-26,Jul,3278.04
+1060,Monitor,1,510.18,Houston,2023-10-30,Oct,510.18
+1061,Monitor,1,1246.97,New York,2023-05-07,May,1246.97
+1062,Keyboard,4,429.17,Los Angeles,2023-02-25,Feb,1716.68
+1063,Headphones,3,1448.92,New York,2023-08-02,Aug,4346.76
+1064,Mouse,2,702.18,New York,2023-01-14,Jan,1404.36
+1065,Laptop,4,1267.77,New York,2023-01-28,Jan,5071.08
+1066,Monitor,1,315.74,Phoenix,2023-03-19,Mar,315.74
+1067,Phone,3,634.69,Chicago,2023-08-04,Aug,1904.0700000000002
+1068,Monitor,4,1058.28,New York,2023-12-31,Dec,4233.12
+1069,Phone,4,233.38,Chicago,2023-06-03,Jun,933.52
+1070,Mouse,3,225.14,Houston,2023-01-14,Jan,675.42
+1071,Mouse,4,1455.22,Los Angeles,2023-07-06,Jul,5820.88
+1072,Mouse,3,1080.45,Houston,2023-11-08,Nov,3241.3500000000004
+1073,Phone,2,90.37,Houston,2023-01-07,Jan,180.74
+1074,Monitor,3,616.27,Phoenix,2023-01-03,Jan,1848.81
+1075,Mouse,3,667.28,Los Angeles,2023-04-21,Apr,2001.84
+1076,Keyboard,3,1123.74,Houston,2023-08-26,Aug,3371.2200000000003
+1077,Phone,4,398.76,Houston,2023-12-29,Dec,1595.04
+1078,Phone,4,300.97,Los Angeles,2023-08-27,Aug,1203.88
+1079,Monitor,3,148.88,Los Angeles,2023-10-01,Oct,446.64
+1080,Phone,4,659.62,Houston,2023-10-21,Oct,2638.48
+1081,Phone,1,1042.09,Los Angeles,2023-08-15,Aug,1042.09
+1082,Mouse,1,115.54,Houston,2023-01-15,Jan,115.54
+1083,Monitor,4,1375.36,Houston,2023-07-11,Jul,5501.44
+1084,Mouse,4,680.26,Phoenix,2023-04-29,Apr,2721.04
+1085,Mouse,3,382.49,New York,2023-01-28,Jan,1147.47
+1086,Monitor,2,167.99,Houston,2023-07-21,Jul,335.98
+1087,Laptop,4,298.81,Chicago,2023-02-08,Feb,1195.24
+1088,Mouse,1,1403.88,New York,2023-09-30,Sep,1403.88
+1089,Keyboard,3,968.26,New York,2023-08-19,Aug,2904.7799999999997
+1090,Keyboard,4,789.54,New York,2023-03-27,Mar,3158.16
+1091,Phone,1,995.95,Phoenix,2023-05-06,May,995.95
+1092,Keyboard,1,670.44,Houston,2023-10-27,Oct,670.44
+1093,Phone,2,1103.16,Phoenix,2023-01-25,Jan,2206.32
+1094,Laptop,3,100.14,Houston,2023-05-25,May,300.42
+1095,Monitor,3,862.07,Phoenix,2023-01-13,Jan,2586.21
+1096,Monitor,2,263.21,Phoenix,2023-07-31,Jul,526.42
+1097,Monitor,2,206.64,Chicago,2023-01-25,Jan,413.28
+1098,Keyboard,3,532.56,Phoenix,2023-03-09,Mar,1597.6799999999998
+1099,Laptop,3,164.94,Los Angeles,2023-03-08,Mar,494.82
+1100,Keyboard,4,168.41,Chicago,2023-08-21,Aug,673.64
+1101,Keyboard,4,487.78,Phoenix,2023-04-19,Apr,1951.12
+1102,Laptop,2,1469.88,New York,2023-05-26,May,2939.76
+1103,Laptop,4,287.74,Los Angeles,2023-04-21,Apr,1150.96
+1104,Laptop,1,55.23,Los Angeles,2023-08-16,Aug,55.23
+1105,Laptop,4,1152.15,Los Angeles,2023-04-21,Apr,4608.6
+1106,Monitor,4,1216.16,Chicago,2023-02-03,Feb,4864.64
+1107,Headphones,1,539.07,Phoenix,2023-04-21,Apr,539.07
+1108,Headphones,2,713.07,Phoenix,2023-09-21,Sep,1426.14
+1109,Laptop,1,985.17,New York,2023-08-24,Aug,985.17
+1110,Headphones,4,100.65,New York,2023-03-24,Mar,402.6
+1111,Headphones,2,1425.24,Los Angeles,2023-02-11,Feb,2850.48
+1112,Laptop,4,1333.42,New York,2023-04-11,Apr,5333.68
+1113,Headphones,1,413.51,Chicago,2023-01-06,Jan,413.51
+1114,Keyboard,1,52.5,Phoenix,2023-06-29,Jun,52.5
+1115,Phone,4,1402.15,Los Angeles,2023-10-09,Oct,5608.6
+1116,Phone,3,766.53,New York,2023-11-16,Nov,2299.59
+1117,Laptop,3,822.88,Chicago,2023-08-14,Aug,2468.64
+1118,Monitor,1,1035.43,Chicago,2023-11-11,Nov,1035.43
+1119,Laptop,1,935.3,New York,2023-12-31,Dec,935.3
+1120,Monitor,3,1417.52,Phoenix,2023-08-17,Aug,4252.5599999999995
+1121,Phone,3,1418.05,New York,2023-10-16,Oct,4254.15
+1122,Laptop,4,1304.78,Los Angeles,2023-05-30,May,5219.12
+1123,Mouse,4,965.51,New York,2023-10-04,Oct,3862.04
+1124,Keyboard,3,1207.4,Chicago,2023-07-17,Jul,3622.2000000000003
+1125,Headphones,4,1025.44,New York,2023-03-11,Mar,4101.76
+1126,Monitor,4,872.85,Phoenix,2023-04-22,Apr,3491.4
+1127,Mouse,2,218.9,Houston,2023-01-04,Jan,437.8
+1128,Headphones,4,1222.47,New York,2023-12-16,Dec,4889.88
+1129,Headphones,1,1236.34,Phoenix,2023-11-27,Nov,1236.34
+1130,Laptop,4,950.13,Phoenix,2023-11-14,Nov,3800.52
+1131,Headphones,4,1236.03,Chicago,2023-12-16,Dec,4944.12
+1132,Keyboard,3,987.68,Phoenix,2023-04-05,Apr,2963.04
+1133,Mouse,1,333.83,Phoenix,2023-06-01,Jun,333.83
+1134,Headphones,4,432.72,Phoenix,2023-11-07,Nov,1730.88
+1135,Laptop,4,345.45,Phoenix,2023-05-17,May,1381.8
+1136,Keyboard,2,584.57,Los Angeles,2023-09-04,Sep,1169.14
+1137,Phone,4,87.28,Los Angeles,2023-08-31,Aug,349.12
+1138,Mouse,4,938.83,Chicago,2023-01-31,Jan,3755.32
+1139,Headphones,2,524.73,New York,2023-02-09,Feb,1049.46
+1140,Laptop,3,993.91,Phoenix,2023-08-17,Aug,2981.73
+1141,Phone,4,596.53,New York,2023-02-05,Feb,2386.12
+1142,Phone,2,1031.97,New York,2023-08-11,Aug,2063.94
+1143,Monitor,1,530.72,Chicago,2023-01-06,Jan,530.72
+1144,Keyboard,3,413.22,Phoenix,2023-11-18,Nov,1239.66
+1145,Headphones,1,759.18,Phoenix,2023-08-08,Aug,759.18
+1146,Laptop,1,1048.55,Houston,2023-03-16,Mar,1048.55
+1147,Monitor,2,542.05,New York,2023-01-04,Jan,1084.1
+1148,Keyboard,4,1406.87,New York,2023-12-01,Dec,5627.48
+1149,Monitor,2,87.6,Los Angeles,2023-05-14,May,175.2
+1150,Mouse,2,644.38,Houston,2023-04-28,Apr,1288.76
+1151,Keyboard,2,1452.34,Los Angeles,2023-04-04,Apr,2904.68
+1152,Keyboard,2,835.52,Los Angeles,2023-03-03,Mar,1671.04
+1153,Headphones,3,652.5,Los Angeles,2023-07-13,Jul,1957.5
+1154,Keyboard,4,865.72,Chicago,2023-12-01,Dec,3462.88
+1155,Monitor,1,876.61,Chicago,2023-07-22,Jul,876.61
+1156,Keyboard,1,1105.52,Los Angeles,2023-01-26,Jan,1105.52
+1157,Headphones,4,217.7,Houston,2023-06-22,Jun,870.8
+1158,Headphones,1,397.52,New York,2023-10-27,Oct,397.52
+1159,Mouse,4,883.4,Houston,2023-05-13,May,3533.6
+1160,Monitor,1,1304.66,Phoenix,2023-11-22,Nov,1304.66
+1161,Phone,2,855.94,Chicago,2023-04-28,Apr,1711.88
+1162,Phone,1,380.74,New York,2023-11-20,Nov,380.74
+1163,Keyboard,4,1029.37,New York,2023-10-02,Oct,4117.48
+1164,Mouse,4,1117.67,Phoenix,2023-07-31,Jul,4470.68
+1165,Laptop,4,380.21,Phoenix,2023-08-13,Aug,1520.84
+1166,Keyboard,4,585.26,Los Angeles,2023-01-20,Jan,2341.04
+1167,Mouse,4,815.46,Chicago,2023-04-23,Apr,3261.84
+1168,Monitor,3,759.94,Chicago,2023-05-20,May,2279.82
+1169,Monitor,3,602.74,Houston,2023-02-16,Feb,1808.22
+1170,Monitor,1,467.52,Los Angeles,2023-01-01,Jan,467.52
+1171,Monitor,4,176.98,Los Angeles,2023-03-31,Mar,707.92
+1172,Monitor,1,108.62,Los Angeles,2023-05-22,May,108.62
+1173,Mouse,4,1439.06,Los Angeles,2023-11-16,Nov,5756.24
+1174,Mouse,4,1275.3,Chicago,2023-02-07,Feb,5101.2
+1175,Headphones,3,551.71,Chicago,2023-10-20,Oct,1655.13
+1176,Phone,3,1436.5,Los Angeles,2023-05-19,May,4309.5
+1177,Monitor,2,1024.85,Houston,2023-12-22,Dec,2049.7
+1178,Laptop,3,739.31,New York,2023-11-29,Nov,2217.93
+1179,Mouse,2,754.75,New York,2023-09-16,Sep,1509.5
+1180,Laptop,2,152.43,Houston,2023-06-10,Jun,304.86
+1181,Laptop,2,164.81,Los Angeles,2023-06-27,Jun,329.62
+1182,Laptop,2,915.59,Chicago,2023-01-10,Jan,1831.18
+1183,Headphones,2,843.94,New York,2023-09-18,Sep,1687.88
+1184,Mouse,1,342.71,Phoenix,2023-05-18,May,342.71
+1185,Laptop,3,1420.91,Phoenix,2023-06-21,Jun,4262.7300000000005
+1186,Monitor,2,1178.51,Houston,2023-01-13,Jan,2357.02
+1187,Keyboard,4,196.79,Los Angeles,2023-06-17,Jun,787.16
+1188,Laptop,3,1398.47,New York,2023-05-10,May,4195.41
+1189,Headphones,3,1462.14,Los Angeles,2023-03-25,Mar,4386.42
+1190,Mouse,2,1494.02,New York,2023-11-17,Nov,2988.04
+1191,Headphones,1,112.13,Houston,2023-11-15,Nov,112.13
+1192,Laptop,2,1113.44,Houston,2023-04-11,Apr,2226.88
+1193,Mouse,1,832.5,Phoenix,2023-11-25,Nov,832.5
+1194,Keyboard,4,1067.57,Los Angeles,2023-09-30,Sep,4270.28
+1195,Laptop,3,1453.92,Phoenix,2023-09-22,Sep,4361.76
+1196,Headphones,4,1041.4,Los Angeles,2023-02-07,Feb,4165.6
+1197,Phone,1,1260.34,Phoenix,2023-04-04,Apr,1260.34
+1198,Monitor,1,1304.3,Chicago,2023-04-05,Apr,1304.3
+1199,Headphones,4,1262.57,Chicago,2023-11-01,Nov,5050.28
+1200,Mouse,1,656.35,Chicago,2023-03-10,Mar,656.35
