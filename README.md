@@ -36,9 +36,7 @@ The dataset (`sales_data.csv`) contains 200 fictional sales records from various
 2. Open `sales_analysis.ipynb` in Jupyter Notebook
 3. Run the cells step-by-step to see the analysis and charts
 
-## 🔗 Live Preview (Optional)
-
-> If you upload screenshots of charts, add them here:
+## 🔗 Live Preview 
 
 ![Monthly Sales](images/monthly_sales.png)
 ![Sales by City](images/city_sales.png)
